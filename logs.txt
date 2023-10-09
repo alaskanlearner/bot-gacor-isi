@@ -448,3 +448,77 @@ Jika @masgacoresmi Membutuhkan Bantuan, Silahkan Tanyakan di Grup https://t.me/S
 [INFO] - bot - Bot Berhenti. Gabung Group https://t.me/SharingUserbot untuk Bantuan
 [WARNING] - bot - Telegram says: [406 AUTH_KEY_DUPLICATED] - The same authorization key (session file) was used in more than one place simultaneously. You must delete your session file and log in again with your phone number or bot token (caused by "InvokeWithLayer")
 [INFO] - bot - Bot Berhenti. Gabung Group https://t.me/SharingUserbot untuk Bantuan
+[INFO] - bot - TG_BOT_TOKEN detected!
+┌ First Name: 𝙺𝙾𝙽𝚂𝚄𝙼𝚂𝙸 𝙱𝙴𝚁𝚂𝙰𝙼𝙰
+└ Username: @konsumsimasgacor1bot
+——
+[INFO] - bot - FORCE_SUB_CHANNEL_1 Detected!
+┌ Title: 𝘾𝙃 x ᴍᴀꜱ-ɢᴀᴄᴏʀ-ᴄᴇɴᴛʀᴇ
+└ Chat ID: -1001908767450
+
+——
+[INFO] - bot - FORCE_SUB_CHANNEL_2 Detected!
+┌ Title: ᴛᴇsᴛɪ ᴠɪᴘ ᴍᴀs ɢᴀᴄᴏʀ ᴘʀɪᴅᴇ
+└ Chat ID: -1001969438306
+
+——
+[INFO] - bot - FORCE_SUB_CHANNEL_3 Detected!
+┌ Title: ʟɪɴᴋ ᴋᴇ ᴛʀɪᴀʟ ᴠɪᴘ ᴍᴀs ɢᴀᴄᴏʀ ᴄᴏᴍᴘᴀɴʏ
+└ Chat ID: -1001869613860
+
+——
+[INFO] - bot - FORCE_SUB_GROUP Detected!
+┌ Title: 𝙂𝙍𝙐𝙋 x ᴍᴀꜱ-ɢᴀᴄᴏʀ-ᴄᴇɴᴛʀᴇ
+└ Chat ID: -1001660510731
+
+——
+[INFO] - bot - CHANNEL_DB Detected!
+┌ Title: dtb
+└ Chat ID: -1001826123739
+
+——
+[INFO] - bot - [🔥 BERHASIL DIAKTIFKAN! 🔥]
+
+BOT Dibuat oleh @masgacoresmi
+Jika @masgacoresmi Membutuhkan Bantuan, Silahkan Tanyakan di Grup https://t.me/SharingUserbot
+[INFO] - root - Stop signal received (SIGINT). Exiting...
+[INFO] - bot - Bot Stopped!
+
+
+[INFO] - bot - TG_BOT_TOKEN detected!
+┌ First Name: 𝙺𝙾𝙽𝚂𝚄𝙼𝚂𝙸 𝙱𝙴𝚁𝚂𝙰𝙼𝙰
+└ Username: @konsumsimasgacor1bot
+——
+[INFO] - bot - FORCE_SUB_CHANNEL_1 Detected!
+┌ Title: 𝘾𝙃 x ᴍᴀꜱ-ɢᴀᴄᴏʀ-ᴄᴇɴᴛʀᴇ
+└ Chat ID: -1001908767450
+
+——
+[INFO] - bot - FORCE_SUB_CHANNEL_2 Detected!
+┌ Title: ᴛᴇsᴛɪ ᴠɪᴘ ᴍᴀs ɢᴀᴄᴏʀ ᴘʀɪᴅᴇ
+└ Chat ID: -1001969438306
+
+——
+[INFO] - bot - FORCE_SUB_CHANNEL_3 Detected!
+┌ Title: ʟɪɴᴋ ᴋᴇ ᴛʀɪᴀʟ ᴠɪᴘ ᴍᴀs ɢᴀᴄᴏʀ ᴄᴏᴍᴘᴀɴʏ
+└ Chat ID: -1001869613860
+
+——
+[INFO] - bot - FORCE_SUB_GROUP Detected!
+┌ Title: 𝙂𝙍𝙐𝙋 x ᴍᴀꜱ-ɢᴀᴄᴏʀ-ᴄᴇɴᴛʀᴇ
+└ Chat ID: -1001660510731
+
+——
+[INFO] - bot - CHANNEL_DB Detected!
+┌ Title: dtb
+└ Chat ID: -1001826123739
+
+——
+[INFO] - bot - [🔥 BERHASIL DIAKTIFKAN! 🔥]
+
+BOT Dibuat oleh @masgacoresmi
+Jika @masgacoresmi Membutuhkan Bantuan, Silahkan Tanyakan di Grup https://t.me/SharingUserbot
+[INFO] - root - Stop signal received (SIGINT). Exiting...
+[INFO] - bot - Bot Stopped!
+
+
