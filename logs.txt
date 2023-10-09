@@ -444,3 +444,7 @@ Jika @masgacoresmi Membutuhkan Bantuan, Silahkan Tanyakan di Grup https://t.me/S
 [INFO] - bot - Bot Stopped!
 
 
+[WARNING] - bot - Telegram says: [406 AUTH_KEY_DUPLICATED] - The same authorization key (session file) was used in more than one place simultaneously. You must delete your session file and log in again with your phone number or bot token (caused by "InvokeWithLayer")
+[INFO] - bot - Bot Berhenti. Gabung Group https://t.me/SharingUserbot untuk Bantuan
+[WARNING] - bot - Telegram says: [406 AUTH_KEY_DUPLICATED] - The same authorization key (session file) was used in more than one place simultaneously. You must delete your session file and log in again with your phone number or bot token (caused by "InvokeWithLayer")
+[INFO] - bot - Bot Berhenti. Gabung Group https://t.me/SharingUserbot untuk Bantuan
