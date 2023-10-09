@@ -14,7 +14,7 @@ from pyrogram.types import Message
 
 from config import ADMINS, LOGGER
 
-UPSTREAM_REPO = "https://github.com/alaskanlearner/bot-gacor/isi"
+UPSTREAM_REPO = "https://github.com/alaskanlearner/bot-gacor/bot-gacor-isi"
 
 
 def gen_chlog(repo, diff):
